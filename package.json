@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-thy",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TathataHY/random-str-msg-thy.git"
+  },
+  "keywords": [],
+  "author": "Andre Huaman Yovera <andre.yovera1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TathataHY/random-str-msg-thy/issues"
+  },
+  "homepage": "https://github.com/TathataHY/random-str-msg-thy#readme",
+  "bin": {
+    "random-str-msg-thy": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
